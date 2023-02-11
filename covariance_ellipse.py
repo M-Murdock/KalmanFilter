@@ -1,3 +1,7 @@
+# Plots the uncertainty ellipse for time steps 1-5 of simulation
+#
+# Adapted from https://irwinsnet.github.io/probrob/nb03.html 
+
 import math
 import sympy
 import matplotlib.patches as mpatches
